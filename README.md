@@ -9,3 +9,5 @@ Data was obtain from various sources
 2. Yahoo! Finance
 
 Initial data downloading and compiling was done using the `quandl_download.py` and `compile_indices.py`. 
+
+More codes and results awaiting...
