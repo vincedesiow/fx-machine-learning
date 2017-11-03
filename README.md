@@ -10,4 +10,5 @@ Data was obtain from various sources
 
 Initial data downloading and compiling was done using the `quandl_download.py` and `compile_indices.py`. 
 
-More codes and results awaiting...
+Also, included is the data file downloaded from the 2 sources inside the `data` folder and a simple presentation on a linear regresion
+model to predict USD/JPY movements and the profit and loss from this trading strategy. (updated 4 November 2017)
